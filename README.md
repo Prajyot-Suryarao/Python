@@ -27,12 +27,12 @@ The dataset contains information related to road accidents, including:
 ---
 
 ## 🛠 Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
 ---
 
